@@ -8,7 +8,9 @@ or in the main
 [cross-media-measurement](https://github.com/world-federation-of-advertisers/cross-media-measurement)
 repository.
 
-*   [Introduction to the Halo Cross-Media Measurement Framework - coming soon]()
+*   [Introduction to the Halo Cross-Media Measurement Framework](references/The-Halo-Cross-Media-Measurement-Framework.pdf)
+
+*   [Halo Technology Overview - Slides](references/Halo-Technology-Overview.pdf)
 
 *   [Cross Media Measurement Code Base](https://github.com/world-federation-of-advertisers/cross-media-measurement)
 
