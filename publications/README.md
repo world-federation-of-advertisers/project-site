@@ -8,7 +8,9 @@ references not published by the Halo team can be found in the
 
 ## Current
 
-[Introduction to the Halo Cross-Media Measurement Framework - coming soon]()
+[Introduction to the Halo Cross-Media Measurement Framework](The-Halo-Cross-Media-Measurement-Framework.pdf)
+
+[Halo Technology Overview - Slides](Halo-Technology-Overview.pdf)
 
 [WFA Industry Framework: Establishing principles for a new approach to
 Cross-Media
